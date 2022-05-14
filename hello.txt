@@ -1,3 +1,4 @@
 Hello, git rebase!
 new Hello, git!
 new Hello, git rebase!
+string hello 1
